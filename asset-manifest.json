@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Predict-age/static/css/main.abd64e84.css",
+    "main.js": "/Predict-age/static/js/main.73ca9238.js",
+    "index.html": "/Predict-age/index.html",
+    "main.abd64e84.css.map": "/Predict-age/static/css/main.abd64e84.css.map",
+    "main.73ca9238.js.map": "/Predict-age/static/js/main.73ca9238.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.73ca9238.js"
+  ]
+}
